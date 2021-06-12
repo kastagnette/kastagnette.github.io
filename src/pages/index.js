@@ -15,13 +15,13 @@ const IndexPage = () => {
             <p className="font-sans text-center text-gray-600 font-light text-2xl">Love Tea!</p>
             <div className="flex flex-wrap flex-row self-center mt-16">
               <a className="mx-2" target="_blank" href="https://twitter.com/tantakan_">
-                <img className="w-8" src="twitter_logo_icon.svg" />
+                <img className="w-8" src="twitter_logo_icon_black.svg" />
               </a>
               <a className="mx-2" target="_blank" href="https://www.facebook.com/shoma.saito.75">
-                <img className="w-8" src="facebook_logo_icon.svg" />
+                <img className="w-8" src="facebook_logo_icon_black.svg" />
               </a>
               <a className="mx-2" target="_blank" href="https://www.instagram.com/tantakan_">
-                <img className="w-8" src="instagram_logo_icon.svg" />
+                <img className="w-8" src="instagram_logo_icon_black.svg" />
               </a>
             </div>
           </div>
@@ -36,13 +36,13 @@ const IndexPage = () => {
             <p className="font-sans text-center text-gray-400 font-light text-2xl">Love Coffee!</p>
             <div className="flex flex-wrap flex-row self-center mt-16">
               <a className="mx-2" target="_blank" href="https://twitter.com/music431per">
-                <img className="w-8" src="twitter_logo_icon.svg" />
+                <img className="w-8" src="twitter_logo_icon_white.svg" />
               </a>
               <a className="mx-2" target="_blank" href="https://www.facebook.com/music431per">
-                <img className="w-8" src="facebook_logo_icon.svg" />
+                <img className="w-8" src="facebook_logo_icon_white.svg" />
               </a>
               <a className="mx-2" target="_blank" href="https://www.instagram.com/music431per">
-                <img className="w-8" src="instagram_logo_icon.svg" />
+                <img className="w-8" src="instagram_logo_icon_white.svg" />
               </a>
             </div>
           </div>
