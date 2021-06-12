@@ -4,11 +4,10 @@ import '../utils/global.css'
 // markup
 const IndexPage = () => {
   return (
-    <main>
+    <main className="overflow-hidden">
       <title>Kastagnette</title>
       <div className="flex flex-wrap flex-row">
         <div className="flex flex-wrap flex-col content-end bg-gray-50 w-1/2">
-
           <div className="min-h-screen flex flex-wrap flex-row content-center">
             <div className="flex flex-col w-36 md:w-64">
               <img className="self-center w-24 h-24 md:w-36 md:h-36 rounded-full border-solid border-4 border-gray-200" alt="shoma" src="/shoma.jpeg" />
@@ -27,10 +26,8 @@ const IndexPage = () => {
               </div>
             </div>
           </div>
-
         </div>
-        <div className="bg-gray-800  w-1/2">
-
+        <div className="flex flex-wrap flex-col content-start bg-gray-800 w-1/2">
           <div className="min-h-screen flex flex-wrap flex-row content-center">
             <div className="flex flex-col w-36 md:w-64">
               <img className="self-center w-24 h-24 md:w-36 md:h-36 rounded-full border-solid border-4 border-gray-600" alt="eri" src="/eri.jpeg" />
@@ -49,7 +46,6 @@ const IndexPage = () => {
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </main>
