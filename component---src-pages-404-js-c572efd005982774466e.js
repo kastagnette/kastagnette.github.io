@@ -1,0 +1,2 @@
+(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[883],{616:function(e,t,n){"use strict";n.r(t);var u=n(294);t.default=function(){return u.createElement("p",null,"存在しないページです。")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-c572efd005982774466e.js.map

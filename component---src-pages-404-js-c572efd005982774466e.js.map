@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://portfolio/./src/pages/404.js"],"names":[],"mappings":"8HAQA,UANqB,WACnB,OACE","file":"component---src-pages-404-js-c572efd005982774466e.js","sourcesContent":["import * as React from \"react\"\n\nconst NotFoundPage = () => {\n  return (\n    <p>存在しないページです。</p>\n  )\n}\n\nexport default NotFoundPage\n"],"sourceRoot":""}
